@@ -1,0 +1,3 @@
+# in case you're using direnv: https://direnv.net
+
+export SLIDES="./sample-slides.md"
